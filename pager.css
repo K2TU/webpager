@@ -1,0 +1,90 @@
+body {
+	font-size: 12pt;
+}
+
+div.center
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+}
+
+table.center
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1 
+{
+	font-size: 16pt;
+}
+
+td.label
+{
+	text-align:right;
+}
+
+td.field
+{
+	text-align:left;
+}
+
+td.center
+{
+	text-align:center;
+}
+
+td.count
+{
+	text-align:center;
+	background:#FFFFFF;
+	font-family:Arial;
+	font-size:16pt;
+	font-weight:bold;
+	border: solid 1px black;
+	padding: 5px 5px 5px 5px;
+}
+
+div.result
+{
+	text-align:center;
+	background:#FFFFFF;
+	font-family:Arial;
+	font-size:16pt;
+	font-weight:bold;
+	border: solid 1px black;
+	padding: 5px 5px 5px 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+div.status
+{
+	text-align:center;
+	background:#FFFFFF;
+	font-family:Arial;
+	font-size:8pt;
+	font-weight:bold;
+	border: solid 1px black;
+	padding: 5px 5px 5px 5px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+p.version
+{
+	text-align:right;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	font-size: 8pt;
+}
+
+
+#control-container {
+	width: 300px;
+	margin: 0 0 0 0;
+	text-align: left;
+	background-color: #EEEEFF;
+	border: solid 1px #000000;
+}
